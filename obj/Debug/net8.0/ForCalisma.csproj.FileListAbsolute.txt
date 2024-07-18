@@ -1,0 +1,14 @@
+/Users/burakkirici/Desktop/ForCalisma/ForCalisma/bin/Debug/net8.0/ForCalisma
+/Users/burakkirici/Desktop/ForCalisma/ForCalisma/bin/Debug/net8.0/ForCalisma.deps.json
+/Users/burakkirici/Desktop/ForCalisma/ForCalisma/bin/Debug/net8.0/ForCalisma.runtimeconfig.json
+/Users/burakkirici/Desktop/ForCalisma/ForCalisma/bin/Debug/net8.0/ForCalisma.dll
+/Users/burakkirici/Desktop/ForCalisma/ForCalisma/bin/Debug/net8.0/ForCalisma.pdb
+/Users/burakkirici/Desktop/ForCalisma/ForCalisma/obj/Debug/net8.0/ForCalisma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakkirici/Desktop/ForCalisma/ForCalisma/obj/Debug/net8.0/ForCalisma.AssemblyInfoInputs.cache
+/Users/burakkirici/Desktop/ForCalisma/ForCalisma/obj/Debug/net8.0/ForCalisma.AssemblyInfo.cs
+/Users/burakkirici/Desktop/ForCalisma/ForCalisma/obj/Debug/net8.0/ForCalisma.csproj.CoreCompileInputs.cache
+/Users/burakkirici/Desktop/ForCalisma/ForCalisma/obj/Debug/net8.0/ForCalisma.dll
+/Users/burakkirici/Desktop/ForCalisma/ForCalisma/obj/Debug/net8.0/refint/ForCalisma.dll
+/Users/burakkirici/Desktop/ForCalisma/ForCalisma/obj/Debug/net8.0/ForCalisma.pdb
+/Users/burakkirici/Desktop/ForCalisma/ForCalisma/obj/Debug/net8.0/ForCalisma.genruntimeconfig.cache
+/Users/burakkirici/Desktop/ForCalisma/ForCalisma/obj/Debug/net8.0/ref/ForCalisma.dll
